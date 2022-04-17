@@ -1,0 +1,12 @@
+body{
+    background-color: lightgray;
+    resize:both;
+}
+.headcenter{
+    text-align:center;
+}
+
+.tableft{
+    padding-left:100px;
+    padding-right:100px;
+}

@@ -1,0 +1,22 @@
+
+H1{
+    font-family: papyrus;
+}
+
+h1{ font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+    ;}
+li{
+    padding-bottom:10px;
+}
+
+.intro{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.paddingspace{ 
+    padding-bottom: 20px;
+}
+
+.nopadding{
+    padding-bottom:0px;
+}
